@@ -56,7 +56,10 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
+    .container {
+        width: 960px;
+        margin: 0 auto;
+    }
 
 
 
